@@ -1,0 +1,8 @@
+name: Dustren
+main: dustren.main.Dustren
+api-version: 1.16
+version: 1.0
+commands:
+   dustren_reload_config:
+      description: Reloads plugin's config
+      usage: /dustren_reload_config
